@@ -80,6 +80,19 @@ Encrypted. Hidden. Questionable.
 
 ---
 
+## THE DASHBOARD!!!! (UX Flow after login)
+Its just the screen that appears after you log in. The below widgets are sitting in front of you now:
+* **Passwords**: Displays all your random passwords, and poorly thought passwords. Also has a button to add password, which gives you two options:
+  - Create your own password, and check its strenght (thats a bold choice aint gonna lie)
+  - Generate a random password, of whatever length you want (default is 16)
+* **Custom Data**: This widget displays all your custom data
+  - You can store _anything_ you want here, and i mean _*anythin*_, from your diary, to your secrets, to your love letter you always wanted to give your crush but will prolly never will, and heck even your man grocery list.
+  - A button to add some custom data is present
+And the some buttons:
+* **Logout button**: It just logs you out, man
+  
+* If there are any other things in the UI, its **textual's** fault, not mine. Blame Will McGugan...
+
 ## How It Works (for people who like big words)
 
 * PBKDF2 + SHA256 → derives encryption key
@@ -258,3 +271,7 @@ Program:
 ---
 
 good luck 👍
+
+
+## LICENSE
+Do whatever you want with it.
