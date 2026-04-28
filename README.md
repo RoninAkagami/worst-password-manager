@@ -279,5 +279,5 @@ Do whatever you want with it.
 
 
 ## Very very very very important note:
-**I DID NOT USE ANY AI FOR NEITHER THIS DOCUMENTATION NOR THE MAIN FILE.**
-If you dont trust me just because the code looks so polished, i call that your skill issue, man...
+- This is a damn learning **project**, not a real security **'product'**. Heck even I am not using this since i dont trust me.
+- So you know, just dont use it much, but if you do use it, its on you if something bad happens... ; )
